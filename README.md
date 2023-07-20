@@ -1,5 +1,5 @@
 # Dogs
-- Projeto com REDUX: [REDUX - DOGS](https://github.com/rochamaatheus/React-Dogs)
+- Projeto com REDUX: [REDUX - DOGS](https://github.com/rochamaatheus/React-Redux-Dogs)
 
 ![Capa_Site](https://i.imgur.com/4SMAvg8.png)
 
