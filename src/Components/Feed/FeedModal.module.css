@@ -1,0 +1,23 @@
+.modal {
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  top: 0px;
+  left: 0px;
+  background: rgba(0, 0, 0, 0.4);
+  display: flex;
+  z-index: 1000;
+  padding: 2rem calc(4rem + 15px);
+}
+
+@media (max-width: 40rem) {
+  .modal {
+    padding: 2rem calc(2rem + 15px);
+  }
+}
+
+@media (max-width: 26.875rem) {
+  .modal {
+    height: 100vh;
+  }
+}
