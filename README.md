@@ -37,6 +37,10 @@ Um destaque do projeto é a integração com uma API online que fornece recursos
 
 - **Estatísticas de Visualização**: Os usuários têm acesso à quantidade de visualizações que suas postagens receberam. Além disso, o projeto utiliza o pacote "victory" para importar gráficos, possibilitando a exibição visual das estatísticas relacionadas às postagens.
 
+## Pré-requisitos
+
+* [Vite](https://vitejs.dev)
+* [React](https://react.dev)
 
 ## Contato
 
